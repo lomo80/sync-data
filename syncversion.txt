@@ -1,6 +1,1 @@
-chunk 1779061906 https://github.com/lomo80/chunk/releases/download/1779061906/data-1779061906.db 16384
-chunk 1779061906 https://github.com/lomo80/chunk/releases/download/1779061906/data-1779061906.json 9679
-db 1779061906 https://github.com/lomo80/db/releases/download/1779061906/rawdata.7z
-chunk 1779078697 https://github.com/lomo80/chunk/releases/download/1779078697/data-1779078697.db 8192
-chunk 1779078697 https://github.com/lomo80/chunk/releases/download/1779078697/data-1779078697.json 2468
-db 1779078697 https://github.com/lomo80/db/releases/download/1779078697/rawdata.7z
+
