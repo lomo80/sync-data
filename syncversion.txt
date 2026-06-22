@@ -1,1 +1,4 @@
 
+chunk 1782105759 https://github.com/lomo80/chunk/releases/download/1782105759/data-1782105759.db 8192
+chunk 1782105759 https://github.com/lomo80/chunk/releases/download/1782105759/data-1782105759.json 1986
+db 1782105759 https://github.com/lomo80/db/releases/download/1782105759/rawdata.7z
