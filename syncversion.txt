@@ -2545,3 +2545,6 @@ db 1793725522 https://github.com/lomo80/db/releases/download/1793725522/rawdata.
 chunk 1793727141 https://github.com/lomo80/chunk/releases/download/1793727141/data-1793727141.db 8192
 chunk 1793727141 https://github.com/lomo80/chunk/releases/download/1793727141/data-1793727141.json 567
 db 1793727141 https://github.com/lomo80/db/releases/download/1793727141/rawdata.7z
+chunk 1793729426 https://github.com/lomo80/chunk/releases/download/1793729426/data-1793729426.db 24576
+chunk 1793729426 https://github.com/lomo80/chunk/releases/download/1793729426/data-1793729426.json 20543
+db 1793729426 https://github.com/lomo80/db/releases/download/1793729426/rawdata.7z
